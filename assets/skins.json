@@ -1,1 +1,12 @@
-hhhhh
+{
+  "name": "IKONIK",
+  "search": "cosmetics/br/cid_028_athena_commando_f",
+  "remplaze": "cosmetics/br/cid_313_athena_commando_m_kpopfashion",
+  "image": "https://fortnite-api.com/images/cosmetics/lego/cid_313_athena_commando_m_kpopfashion/small.png"
+},
+{
+  "name": "Renegade raider",
+  "remplace": "cosmetics/br/cid_028_athena_commando_f",
+  "search": "cosmetics/br/cid_313_athena_commando_m_kpopfashion",
+  "image": "https://fortnite-api.com/images/cosmetics/lego/cid_028_athena_commando_f/small.png"
+}
